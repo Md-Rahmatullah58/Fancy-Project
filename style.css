@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./Assets/nature.jpg);
+    height: 100vt;
+    background-size: cover;
+
+}
+
+nav {
+    /* background-color:rgb(80, 252, 80); */
+/* background-color: rgb(29, 158, 17); */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+nav a {
+    color:rgb(228, 12, 23);
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 5px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    /* background-color: #d5baba; */
+    background-color: rgb(29, 158,17);
+    
+    
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(224, 217, 15);
+    margin-left: 20px;
+    
+}
+p:hover{
+    color: rgb(228, 12, 23);
+}
+footer{
+    font-size: 20px;
+    color: rgb(190, 219, 2);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 20px;
+}
+footer:hover{
+    color: rgb(255, 68, 0);
+}
+.name{
+    /* background-color: rgb(0, 159, 0); */
+    color:rgb(158, 0, 0)
+}
